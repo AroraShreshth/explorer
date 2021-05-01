@@ -51,7 +51,7 @@ export class AppComponent implements OnInit {
     }
 
     if (this.queryNode === '') {
-      this.queryNode = 'https://api.bitclout.com';
+      this.queryNode = 'https://api.vexio.xyz';
     }
 
     if (params.mempool) {
